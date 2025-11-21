@@ -1,0 +1,11 @@
+{
+    "name": "disable pickup magic items",
+    "description": "Magic has cast you out, and now in spite, you are unable to wield or make use of any magical objects.",
+    "badges": [
+        {
+            "sprite": "minecraft:textures/item/barrier.png",
+            "text": "Ooh, shiny!"
+        }
+    ],
+    "hidden": false
+}

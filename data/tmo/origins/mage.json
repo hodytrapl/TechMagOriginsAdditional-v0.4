@@ -1,0 +1,11 @@
+{
+    "name": "Mage",
+    "description": "You think magic is way better than technology.",
+    "icon": "minecraft:amethyst_shard",
+    "powers": [
+        "tmo:mage/debuff/disablepickuptechology"
+    ],
+    "order": 99,
+    "impact": 2
+
+}

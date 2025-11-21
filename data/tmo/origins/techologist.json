@@ -1,0 +1,11 @@
+{
+    "name": "Techologist",
+    "description": "People who delve into the depths of science find themselves shunned by magic.",
+    "icon": "minecraft:redstone",
+    "powers": [
+        "tmo:techologist/debuff/disablepickupmagic"
+    ],
+    "order": 99,
+    "impact": 2
+
+}
