@@ -1,6 +1,6 @@
 {
-    "name": "power.tmo.techologist/debuff/disablepickupmagic.name",
-    "description": "power.tmo.techologist/debuff/disablepickupmagic.description",
+    "name": "power.tmo.mage/debuff/disablepickuptechology.name",
+    "description": "power.tmo.mage/debuff/disablepickuptechology.description",
     "badges": [
         {
             "sprite": "minecraft:textures/item/barrier.png",
@@ -8,7 +8,7 @@
         }
     ],
     "hidden": false,
-
+    
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:execute_command",
